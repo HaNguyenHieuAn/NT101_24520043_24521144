@@ -15,8 +15,8 @@ NT101.R11.2/
 ├── README.md
 ├── Lab1/
 │   ├── Lab1_README.md
-│   ├── Lab1_GroupXX_Report.pdf
-│   ├── Lab1_GroupXX_Resource.zip
+│   ├── Lab1_Group16_Report.pdf
+│   ├── Lab1_Group16_Resource.zip
 │   ├── Lab1_notebook.ipynb
 ├── Lab2/
 │   ├── ...
