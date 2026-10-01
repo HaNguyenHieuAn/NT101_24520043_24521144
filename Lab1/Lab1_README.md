@@ -29,8 +29,8 @@ Bài thực hành giúp làm quen với các khái niệm nền tảng trong m�
 
 ```text
 Lab1/
-├── Lab1_GroupXX_Report.pdf     # Báo cáo chi tiết dạng PDF
-├── Lab1_README.md                   # Tài liệu hướng dẫn bài Lab 1
+├── Lab1_Group16_Report.pdf     # Báo cáo chi tiết PDF
+├── Lab1_README.md              # Tài liệu hướng dẫn bài Lab 1
 ├── data/                       # Dữ liệu kiểm thử & văn bản mẫu
 │   ├── task2.1_cipher.txt
 │   ├── task2.2_cipher.txt
